@@ -14,9 +14,9 @@ OpenRA Dune 2000 简易汉化补丁
 
 📦 包含内容
 
-rules.ftl: 核心汉化文件 (单位/建筑/UI文本)。
+.ftl: 核心汉化文件 (单位/建筑/UI文本)。
 
-其他文件：字体
+.ttf：字体
 
 
 
@@ -24,9 +24,9 @@ rules.ftl: 核心汉化文件 (单位/建筑/UI文本)。
 
 1\. 汉化文本
 
-下载本仓库中的 `rules.ftl` 文件，覆盖到你的游戏目录：
+下载本仓库中的 `.ftl` 文件，覆盖到你的游戏目录：
 
-OpenRA目录/mods/d2k/fluent/rules.ftl
+OpenRA目录/mods/d2k/fluent
 
 2\. 字体替换
 
@@ -43,4 +43,5 @@ OpenRA目录/mods/d2k/fluent/rules.ftl
 🤝 反馈
 
 如果您发现翻译错误或有改进建议，欢迎提交 Issue。
+
 
