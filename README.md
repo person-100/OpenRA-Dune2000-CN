@@ -24,7 +24,7 @@ OpenRA Dune 2000 简易汉化补丁
 
 1\. 汉化文本
 
-下载本仓库中的 `.ftl` 文件，覆盖到你的游戏目录：
+下载本仓库中的`.ftl`文件，覆盖到你的游戏目录：
 
 OpenRA目录/mods/d2k/fluent
 
@@ -43,5 +43,6 @@ OpenRA目录/mods/d2k/fluent
 🤝 反馈
 
 如果您发现翻译错误或有改进建议，欢迎提交 Issue。
+
 
 
